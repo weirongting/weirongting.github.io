@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+  <url>
+    <loc>http://www.codinger.cc/2016/09/28/%E5%B8%B8%E7%94%A8%E8%84%9A%E6%9C%AC/</loc>
+    <lastmod>2016-09-30T02:39:21.146Z</lastmod>
+    <data>
+        <display>
+        <title>常用脚本</title>
+        <pubTime>2016-09-28T12:39:15.000Z</pubTime>
+        
+        <tag>shell 脚本</tag>
+         
+         
+           
+             
+              <breadCrumb title="服务器" url="http://www.codinger.cc/categories/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.codinger.cc/2016/09/29/Linux-%E8%B0%83%E6%95%B4%E5%88%86%E5%8C%BA/</loc>
+    <lastmod>2016-09-29T14:20:53.446Z</lastmod>
+    <data>
+        <display>
+        <title>Linux 调整分区</title>
+        <pubTime>2016-09-29T14:19:54.000Z</pubTime>
+        
+        <tag>服务器</tag>
+         
+        <tag>Linux</tag>
+         
+         
+           
+             
+              <breadCrumb title="服务器" url="http://www.codinger.cc/categories/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.codinger.cc/2016/09/29/MySQL%E6%95%B0%E6%8D%AE%E7%BB%9F%E8%AE%A1/</loc>
+    <lastmod>2016-09-29T14:17:58.940Z</lastmod>
+    <data>
+        <display>
+        <title>MySQL数据统计</title>
+        <pubTime>2016-09-29T14:13:39.000Z</pubTime>
+        
+        <tag>数据库</tag>
+         
+        <tag>MySQL</tag>
+         
+        <tag>数据统计</tag>
+         
+        <tag>按周统计</tag>
+         
+         
+           
+             
+              <breadCrumb title="数据库" url="http://www.codinger.cc/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.codinger.cc/2016/09/29/TOMCAT8-%E5%90%AF%E5%8A%A8%E6%85%A2/</loc>
+    <lastmod>2016-09-29T14:11:02.445Z</lastmod>
+    <data>
+        <display>
+        <title>TOMCAT8 启动慢</title>
+        <pubTime>2016-09-29T14:07:34.000Z</pubTime>
+        
+        <tag>TOMCAT 启动</tag>
+         
+         
+           
+             
+              <breadCrumb title="WEB 服务器" url="http://www.codinger.cc/categories/WEB-%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+    
+    
+    
+</urlset>

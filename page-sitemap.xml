@@ -8,7 +8,14 @@
     
     <url>
         <loc>http://www.codinger.cc/about/</loc>
-        <lastmod>2016-09-28T13:17:30.326Z</lastmod>
+        <lastmod>2016-09-29T14:04:33.887Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://www.codinger.cc/guestbook/</loc>
+        <lastmod>2016-09-29T09:51:13.193Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -30,13 +37,6 @@
     <url>
         <loc>http://www.codinger.cc/tags/</loc>
         <lastmod>2016-06-02T09:46:18.168Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>http://www.codinger.cc/guestbook/</loc>
-        <lastmod>2016-06-02T06:23:14.860Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>

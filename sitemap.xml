@@ -3,17 +3,22 @@
 
     <sitemap>
         <loc>http://www.codinger.cc/post-sitemap.xml</loc>
-        <lastmod>2016-09-28T12:39:15.232Z</lastmod>
+        <lastmod>2016-09-30T02:39:21.146Z</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>http://www.codinger.cc/page-sitemap.xml</loc>
-        <lastmod>2016-09-28T13:17:30.326Z</lastmod>
+        <lastmod>2016-09-29T14:04:33.887Z</lastmod>
+    </sitemap>
+
+    <sitemap>
+        <loc>http://www.codinger.cc/category-sitemap.xml</loc>
+        <lastmod>2016-09-29T14:11:02.445Z</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>http://www.codinger.cc/tag-sitemap.xml</loc>
-        <lastmod>2016-09-28T12:39:15.232Z</lastmod>
+        <lastmod>2016-09-29T14:11:02.445Z</lastmod>
     </sitemap>
 
 </sitemapindex>
