@@ -53,11 +53,92 @@
     <entry>
       <title><![CDATA[常用脚本]]></title>
       <url>http://www.codinger.cc/2016/09/28/%E5%B8%B8%E7%94%A8%E8%84%9A%E6%9C%AC/</url>
-      <content type="html"><![CDATA[<h6 id="&#x67E5;&#x8BE2;&#x6587;&#x4EF6;&#x5185;&#x5BB9;&#x5E76;&#x663E;&#x793A;&#x6587;&#x4EF6;&#x540D;-&#x6BD4;&#x5982;&#x67E5;&#x8BE2;-demo-js"><a href="#&#x67E5;&#x8BE2;&#x6587;&#x4EF6;&#x5185;&#x5BB9;&#x5E76;&#x663E;&#x793A;&#x6587;&#x4EF6;&#x540D;-&#x6BD4;&#x5982;&#x67E5;&#x8BE2;-demo-js" class="headerlink" title="&#x67E5;&#x8BE2;&#x6587;&#x4EF6;&#x5185;&#x5BB9;&#x5E76;&#x663E;&#x793A;&#x6587;&#x4EF6;&#x540D;,&#x6BD4;&#x5982;&#x67E5;&#x8BE2; demo.js"></a>&#x67E5;&#x8BE2;&#x6587;&#x4EF6;&#x5185;&#x5BB9;&#x5E76;&#x663E;&#x793A;&#x6587;&#x4EF6;&#x540D;,&#x6BD4;&#x5982;&#x67E5;&#x8BE2; demo.js</h6><figure class="highlight gradle"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">grep</span> -rn <span class="string">&quot;demo.js&quot;</span></span><br></pre></td></tr></table></figure>
+      <content type="html"><![CDATA[<h6 id="&#x67E5;&#x8BE2;&#x6587;&#x4EF6;&#x5185;&#x5BB9;&#x5E76;&#x663E;&#x793A;&#x6587;&#x4EF6;&#x540D;-&#x6BD4;&#x5982;&#x67E5;&#x8BE2;-demo-js"><a href="#&#x67E5;&#x8BE2;&#x6587;&#x4EF6;&#x5185;&#x5BB9;&#x5E76;&#x663E;&#x793A;&#x6587;&#x4EF6;&#x540D;-&#x6BD4;&#x5982;&#x67E5;&#x8BE2;-demo-js" class="headerlink" title="&#x67E5;&#x8BE2;&#x6587;&#x4EF6;&#x5185;&#x5BB9;&#x5E76;&#x663E;&#x793A;&#x6587;&#x4EF6;&#x540D;,&#x6BD4;&#x5982;&#x67E5;&#x8BE2; demo.js"></a>&#x67E5;&#x8BE2;&#x6587;&#x4EF6;&#x5185;&#x5BB9;&#x5E76;&#x663E;&#x793A;&#x6587;&#x4EF6;&#x540D;,&#x6BD4;&#x5982;&#x67E5;&#x8BE2; demo.js</h6><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">grep -rn &quot;demo.js&quot;</span><br></pre></td></tr></table></figure>
 <h6 id="&#x6839;&#x636E;&#x7AEF;&#x53E3;&#x67E5;&#x8BE2;&#x8FDB;&#x7A0B;&#x53F7;-&#x5E38;&#x7528;&#x4E8E;&#x7AEF;&#x53E3;&#x5360;&#x7528;&#x67E5;&#x8BE2;-&#x6BD4;&#x5982;&#x67E5;&#x8BE2;8000&#x7AEF;&#x53E3;"><a href="#&#x6839;&#x636E;&#x7AEF;&#x53E3;&#x67E5;&#x8BE2;&#x8FDB;&#x7A0B;&#x53F7;-&#x5E38;&#x7528;&#x4E8E;&#x7AEF;&#x53E3;&#x5360;&#x7528;&#x67E5;&#x8BE2;-&#x6BD4;&#x5982;&#x67E5;&#x8BE2;8000&#x7AEF;&#x53E3;" class="headerlink" title="&#x6839;&#x636E;&#x7AEF;&#x53E3;&#x67E5;&#x8BE2;&#x8FDB;&#x7A0B;&#x53F7;,&#x5E38;&#x7528;&#x4E8E;&#x7AEF;&#x53E3;&#x5360;&#x7528;&#x67E5;&#x8BE2;,&#x6BD4;&#x5982;&#x67E5;&#x8BE2;8000&#x7AEF;&#x53E3;"></a>&#x6839;&#x636E;&#x7AEF;&#x53E3;&#x67E5;&#x8BE2;&#x8FDB;&#x7A0B;&#x53F7;,&#x5E38;&#x7528;&#x4E8E;&#x7AEF;&#x53E3;&#x5360;&#x7528;&#x67E5;&#x8BE2;,&#x6BD4;&#x5982;&#x67E5;&#x8BE2;8000&#x7AEF;&#x53E3;</h6><figure class="highlight stylus"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">lsof -<span class="selector-tag">i</span>:<span class="number">8000</span></span><br></pre></td></tr></table></figure>
 ]]></content>
     </entry>
     
   
+  
+    
+    <entry>
+      <title><![CDATA[about]]></title>
+      <url>http://www.codinger.cc/about/index.html</url>
+      <content type="html"><![CDATA[<pre style="background: rgba(130, 110, 67, 0.31);color: #1B2DFF;line-height: 20px;text-decoration:none;">
+{
+    &quot;&#x57FA;&#x672C;&#x4FE1;&#x606F;&quot; : {
+        &quot;&#x59D3;&#x540D;&quot;      : &quot;&#x97E6;&#x8363;&#x5EAD;&quot;,
+        &quot;&#x82F1;&#x6587;&#x540D;&quot;    : &quot;Garid&quot;,
+        &quot;&#x751F;&#x65E5;&quot;      : { 
+            &quot;&#x5B98;&#x65B9;&quot;:&quot;04-15&quot;,
+            &quot;&#x771F;&#x5B9E;&quot;:&quot;07-23&quot;
+        },
+        &quot;&#x540D;&#x65CF;&quot;      : &quot;&#x58EE;&#x65CF;&quot;,
+        &quot;&#x7C4D;&#x8D2F;&quot;      : &quot;&#x5E7F;&#x897F;&#x6CB3;&#x6C60;&quot;,
+        &quot;&#x73B0;&#x5C45;&#x5730;&quot;    : &quot;&#x4E0A;&#x6D77;&quot;,
+        &quot;&#x5B66;&#x5386;&quot;      : &quot;&#x5B66;&#x58EB;&quot;,
+        &quot;&#x5A5A;&#x59FB;&quot;      : &quot;&#x4FDD;&#x5BC6;&quot;,
+        &quot;&#x804C;&#x4F4D;&quot;      : &quot;&#x8F6F;&#x4EF6;&#x5DE5;&#x7A0B;&#x5E08;&quot;
+    },
+    &quot;&#x7231;&#x597D;&quot; : [&quot;&#x7BEE;&#x7403;&quot;, &quot;&#x65C5;&#x6E38;&quot;, &quot;&#x7F16;&#x7A0B;&quot;,&quot;...&quot;],
+    &quot;&#x6559;&#x80B2;&#x7ECF;&#x5386;&quot; : {
+        &quot;&#x5927;&#x5B66;&#x65F6;&#x4EE3;&quot; : {
+            &quot;&#x5B66;&#x6821;&#x540D;&#x79F0;&quot;  : &quot;&#x7ECD;&#x5174;&#x6587;&#x7406;&#x5B66;&#x9662;&quot;,
+            &quot;&#x4E13;&#x4E1A;&quot;      : &quot;&#x4FE1;&#x606F;&#x4E0E;&#x8BA1;&#x7B97;&#x79D1;&#x5B66;&quot;,
+            &quot;&#x65F6;&#x95F4;&quot;      : &quot;2003-09-01~2007-06-30&quot;
+        },
+        &quot;&#x9AD8;&#x4E2D;&#x65F6;&#x4EE3;&quot; : {
+            &quot;&#x5B66;&#x6821;&#x540D;&#x79F0;&quot;  : &quot;&#x90FD;&#x5B89;&#x7B2C;&#x4E8C;&#x9AD8;&#x7EA7;&#x4E2D;&#x5B66;&quot;,
+            &quot;&#x4E13;&#x4E1A;&quot;      : &quot;&#x7406;&#x79D1;&quot;,
+            &quot;&#x65F6;&#x95F4;&quot;      : &quot;2000-09-01~2003-06-30&quot;
+        }
+    },
+    &quot;&#x5DE5;&#x4F5C;&#x7ECF;&#x5386;&quot; : [
+        {
+            &quot;&#x516C;&#x53F8;&#x540D;&#x79F0;&quot; : &quot;&#x4E0A;&#x6D77;&#x8302;&#x78A7;&#x4FE1;&#x606F;&#x79D1;&#x6280;&#x6709;&#x9650;&#x516C;&#x53F8;&quot;,
+            &quot;&#x5DE5;&#x4F5C;&#x65F6;&#x95F4;&quot; : &quot;2010-06-27~&#x73B0;&#x5728;&quot;,
+            &quot;&#x804C;&#x4F4D;&quot;     : &quot;&#x6280;&#x672F;&#x4E3B;&#x7BA1;&quot; 
+        },
+         {
+            &quot;&#x516C;&#x53F8;&#x540D;&#x79F0;&quot; : &quot;&#x4E0A;&#x6D77;&#x7F51;&#x8FBE;&#x4FE1;&#x606F;&#x6280;&#x672F;&#x6709;&#x9650;&#x516C;&#x53F8;&quot;,
+            &quot;&#x5DE5;&#x4F5C;&#x65F6;&#x95F4;&quot; : &quot;2007-11-24~2010-06-20&quot;,
+            &quot;&#x804C;&#x4F4D;&quot;     : &quot;&#x9AD8;&#x7EA7;java&#x5DE5;&#x7A0B;&#x5E08;&quot; 
+        }
+    ],
+    &quot;&#x8054;&#x7CFB;&#x65B9;&#x5F0F;&quot; : {
+        &quot;QQ&quot;        : 627063337,
+        &quot;&#x624B;&#x673A;&quot;      : &quot;139********&quot;,
+        &quot;github&quot;    : &quot;<a style="color: rgba(39, 14, 49, 0.51);text-decoration:none;" href="http://github.com/weirongting" target="_blank" rel="external">http://github.com/weirongting</a>&quot; 
+    }
+}
+</pre>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[分类]]></title>
+      <url>http://www.codinger.cc/categories/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[guestbook]]></title>
+      <url>http://www.codinger.cc/guestbook/index.html</url>
+      <content type="html"><![CDATA[<p>&#x865A;&#x5FC3;&#x7684;&#x63A5;&#x53D7;&#x60A8;&#x63D0;&#x51FA;&#x7684;&#x5EFA;&#x8BAE;&#x4E0E;&#x53CD;&#x9988;&#xFF01;</p>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[search]]></title>
+      <url>http://www.codinger.cc/search/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[tags]]></title>
+      <url>http://www.codinger.cc/tags/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
   
 </search>
